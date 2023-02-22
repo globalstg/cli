@@ -1,5 +1,5 @@
 {
-    "name": "alexp007/cli",
+    "name": "globalstg/cli",
     "description": "Simple and lightweight library for rapid creation php cli (command line) applications",
     "type": "library",
     "license": "MIT",
