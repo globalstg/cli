@@ -9,12 +9,13 @@
             "email": "alex.p.panteleev@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+  
     "require": {
         "php": ">=^8.0",
         "ext-mbstring": "*",
         "ext-json": "*"
     },
+      "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"Cli\\": "src/"}
     }
